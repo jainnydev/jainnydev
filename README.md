@@ -1,65 +1,184 @@
-# 👩🏻‍💻 Jainny Fernandes
+# 👩‍💻 Jainny Victória
 
-### Profissional de TI • Ciência da Computação • Backend Development
+### Desenvolvedora em formação | Ciência da Computação | Backend | Tecnologia
 
-> Construindo minha trajetória em tecnologia, transformando conhecimento em projetos e evoluindo continuamente como desenvolvedora.
+Olá! Eu sou **Jainny fernandes**, estudante de **Ciência da Computação** e profissional da área de Tecnologia da Informação.
 
----
+Atualmente, estou direcionando minha carreira para o desenvolvimento de software, com foco especial em **Backend, APIs, bancos de dados e lógica de programação**.
 
-## 👋 Sobre mim
+Tenho experiência profissional com **suporte técnico N2, análise de sistemas, atendimento de incidentes e ambientes corporativos**, o que me proporciona uma visão prática tanto da infraestrutura quanto do desenvolvimento de soluções.
 
-Sou profissional de TI e estudante de Ciência da Computação, apaixonada por tecnologia, programação e resolução de problemas.
-
-Atualmente, estou direcionando minha carreira para o desenvolvimento Backend, fortalecendo minha base em lógica de programação, algoritmos, estruturas de dados e desenvolvimento de software.
-
-Minha experiência em TI me permite unir conhecimentos de suporte, infraestrutura e resolução de problemas com o desenvolvimento de soluções através da programação.
-
-Tenho interesse especialmente em:
-
-- 🖥️ Desenvolvimento Backend
-- ☕ Java
-- 🗄️ Banco de Dados e SQL
-- 🌐 Desenvolvimento de APIs
-- 🧩 Engenharia de Software
-- 🔧 Git e GitHub
-- 🧪 Testes de Software
-- 🚀 Arquitetura e desenvolvimento de sistemas
+Meu objetivo é evoluir constantemente como desenvolvedora, construir projetos sólidos e, futuramente, atuar em uma grande empresa de tecnologia com atuação internacional.
 
 ---
 
-## 🎯 Objetivo profissional
+## 🚀 Sobre mim
 
-Meu objetivo é me tornar uma desenvolvedora Backend e, futuramente, evoluir para uma carreira como Software Engineer.
+* 🎓 Estudante de **Ciência da Computação**
+* 💻 Formação técnica em **Informática**
+* 🖥️ Experiência profissional em **Suporte Técnico N2**
+* 🔎 Experiência com **análise de sistemas e resolução de incidentes**
+* 🌐 Conhecimentos em **redes e infraestrutura**
+* 🗄️ Interesse em **Backend e Banco de Dados**
+* 🧠 Atualmente aprofundando meus conhecimentos em **Lógica de Programação**
+* 📚 Sempre estudando e desenvolvendo novos projetos
+* 🌎 Objetivo profissional: atuar em uma **empresa internacional de tecnologia**
 
-Busco desenvolver aplicações eficientes, organizadas, seguras e escaláveis, sempre buscando aplicar boas práticas de programação e engenharia de software.
+---
 
-Também tenho como objetivo construir uma carreira internacional na área de tecnologia, trabalhando em projetos desafiadores e aprendendo continuamente.
+## 💻 Tecnologias e conhecimentos
+
+### Linguagens e desenvolvimento
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Banco de dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Infraestrutura e suporte
+
+* Suporte Técnico N2
+* Análise e resolução de incidentes
+* Troubleshooting
+* Redes de computadores
+* Sistemas corporativos
+* VPN
+* Microsoft 365
+* Active Directory
+* Atendimento e suporte ao usuário
+* Análise de sistemas
 
 ---
 
 ## 📚 Atualmente estudando
 
-Minha jornada de estudos está sendo construída de forma progressiva:
+```text
+Lógica de Programação
+        ↓
+Algoritmos
+        ↓
+Python
+        ↓
+Programação Orientada a Objetos
+        ↓
+Banco de Dados
+        ↓
+APIs REST
+        ↓
+Backend
+        ↓
+Projetos completos
+```
+
+Meu foco atual é construir uma base sólida em programação antes de avançar para projetos maiores de Backend.
+
+---
+
+## 🛠️ Projetos
+
+### 📦 Mercado System
+
+Sistema desenvolvido como projeto de estudo com o objetivo de praticar conceitos de programação, organização de código e desenvolvimento de sistemas.
+
+**Tecnologias:**
+`Em desenvolvimento`
+
+🔗 [Acessar projeto](#)
+
+---
+
+### 🔐 Projetos de estudo
+
+Repositório destinado aos meus estudos de programação, algoritmos e exercícios práticos.
+
+Aqui registro minha evolução durante o aprendizado de desenvolvimento de software.
+
+---
+
+## 🎯 Objetivos
 
 ```text
-Algoritmos e Lógica de Programação
-              ↓
-Fundamentos de Programação
-              ↓
-Estruturas de Dados
-              ↓
-Java
-              ↓
-Programação Orientada a Objetos
-              ↓
-SQL e Banco de Dados
-              ↓
-Spring Boot
-              ↓
-APIs REST
-              ↓
-Testes
-              ↓
-Docker
-              ↓
-Projetos Backend
+☑ Formação em Ciência da Computação
+☑ Construir uma base sólida em programação
+☑ Aprimorar lógica de programação
+☐ Desenvolver projetos Backend
+☐ Aprofundar conhecimentos em Banco de Dados
+☐ Criar APIs REST
+☐ Construir um portfólio profissional
+☐ Contribuir para projetos Open Source
+☐ Conseguir minha primeira oportunidade como desenvolvedora
+☐ Trabalhar em uma grande empresa internacional
+```
+
+---
+
+## 📈 Minha jornada
+
+```text
+Técnico em Informática
+        ↓
+Suporte Técnico
+        ↓
+Suporte N2
+        ↓
+Análise de Sistemas
+        ↓
+Ciência da Computação
+        ↓
+Estudos em Programação
+        ↓
+Backend Developer 🚀
+```
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![Jainny's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="left">
+
+[![GitHub](https://github.com/jainnydev)
+
+[![LinkedIn](https://www.linkedin.com/in/jainnyfernandes/)
+
+</div>
+
+---
+
+## 💡 Um pouco mais sobre mim
+
+Além da tecnologia, gosto de aprender coisas novas, ler e explorar o universo nerd, especialmente **animes, programação e tecnologia**.
+
+Acredito que desenvolvimento não é apenas escrever código, mas também entender problemas, pensar em soluções e construir sistemas que realmente façam sentido.
+
+---
+
+<div align="center">
+
+### 🚀 Em constante evolução.
+
+**"Cada linha de código é mais um passo na construção da minha carreira."**
+
+</div>
